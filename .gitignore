@@ -1,0 +1,11 @@
+dataset/
+logs/
+results/
+temp_data/
+
+.DS_Store
+
+*.out
+*.slurm
+
+__pycache__/
