@@ -13,4 +13,4 @@ In this paper, to improve the performance of an imputation model fine-tuned base
 Highest Accuracy: 68.29% (30 features, 2 epochs, lr=5e-4)
 
 ### To-Dos
-[ ] Use regression task instead of binary and consider the distance of one augmented data from the original one
+- [ ] Use regression task instead of binary and consider the distance of one augmented data from the original one
